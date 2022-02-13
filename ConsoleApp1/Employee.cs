@@ -13,6 +13,7 @@ namespace ConsoleApp1
         {
             Person person = new Person();
             person.Name = "hlias tsoukalas";
+            person.age = 36;
         }
     }
 }
